@@ -1,0 +1,206 @@
+Retailer,Beverage_Brand,Region,Sales_Amount,Profit,Units_Sold,Date,Distribution_Channel
+Amazon,Coca-Cola,North,1935.25,951.7,116,3/13/2023,Online
+Target,Diet Coke,South,3033.43,172.9,476,8/3/2023,Supermarket
+Amazon,Minute Maid,North,384.61,868.85,109,12/26/2023,Wholesale
+Walmart,Coca-Cola,North,3569.56,40.17,267,12/10/2023,Convenience Store
+Target,Coke Zero,North,4178.97,228.09,201,10/4/2023,Convenience Store
+Amazon,Minute Maid,West,3125.66,619.42,262,8/24/2023,Convenience Store
+7-Eleven,Coke Zero,East,213.01,534.28,179,7/7/2023,Supermarket
+Target,Minute Maid,West,1895.17,466.95,184,2/20/2023,Online
+Costco,Diet Coke,South,1974.06,983.57,140,11/3/2023,Online
+Walmart,Coca-Cola,West,3433.51,461.49,283,3/30/2023,Supermarket
+Costco,Sprite,East,4831.6,812.23,274,12/12/2023,Supermarket
+Amazon,Fanta,North,578.59,690.55,376,9/21/2023,Wholesale
+Walmart,Coke Zero,East,268.5,911.13,429,2/19/2023,Online
+Kroger,Diet Coke,North,3346.36,325.48,399,2/23/2023,Supermarket
+Amazon,Diet Coke,East,2778.88,201.16,200,8/6/2023,Supermarket
+Target,Coca-Cola,West,2303.8,407.25,493,9/27/2023,Online
+7-Eleven,Minute Maid,East,3663.63,340.01,471,8/3/2023,Convenience Store
+Costco,Sprite,South,2652.09,961.95,222,7/27/2023,Online
+Amazon,Minute Maid,North,3761.87,548.9,289,8/5/2023,Convenience Store
+Kroger,Minute Maid,South,1476.58,551.84,50,6/6/2023,Convenience Store
+7-Eleven,Fanta,East,4030.77,93.06,336,1/9/2023,Convenience Store
+Amazon,Sprite,North,3884,214.74,481,3/4/2023,Convenience Store
+Walmart,Sprite,West,4095.76,712.72,172,10/16/2023,Online
+Walmart,Diet Coke,East,3069.2,927.77,50,1/28/2023,Convenience Store
+Amazon,Fanta,West,4329.21,630.83,427,2/2/2023,Wholesale
+Target,Sprite,South,411.44,324.76,225,10/20/2023,Convenience Store
+Amazon,Coke Zero,East,3675.07,644.81,484,2/4/2023,Wholesale
+Kroger,Fanta,East,2413.85,,471,5/11/2023,Convenience Store
+Target,Coke Zero,West,3827.85,570.05,264,12/25/2023,Supermarket
+Walmart,Coca-Cola,South,298.12,716.45,355,2/11/2023,Convenience Store
+Amazon,Fanta,North,2252.75,217.68,361,8/19/2023,Wholesale
+7-Eleven,Coke Zero,West,2429.31,572.01,397,8/10/2023,Online
+Kroger,Coca-Cola,North,782.72,612.33,152,6/20/2023,Online
+Amazon,Sprite,North,1095,944,336,7/6/2023,Online
+7-Eleven,Diet Coke,West,3504.45,882.86,179,2/14/2023,Supermarket
+Amazon,Minute Maid,East,1548.61,123.38,293,1/28/2023,Convenience Store
+Kroger,Coca-Cola,East,1170.36,428.18,455,11/27/2023,Convenience Store
+Target,Sprite,South,1689.29,139.65,482,8/19/2023,Supermarket
+Kroger,Sprite,West,4543.46,286.69,292,5/1/2023,Supermarket
+Walmart,Sprite,East,4108.27,863.52,368,7/17/2023,Convenience Store
+Walmart,Diet Coke,North,2602.66,429.06,174,8/13/2023,Supermarket
+Amazon,Fanta,North,687.34,350.86,472,11/11/2023,Convenience Store
+Target,Minute Maid,West,1683.69,528.41,242,6/29/2023,Convenience Store
+Costco,Coke Zero,West,1881.79,972.35,61,9/25/2023,Convenience Store
+Kroger,Minute Maid,South,1333.73,507.3,122,4/11/2023,Online
+7-Eleven,Minute Maid,East,1495.72,56.15,122,1/2/2023,Wholesale
+Kroger,Fanta,North,2563.13,70.45,494,8/12/2023,Convenience Store
+Target,Coca-Cola,East,4550.5,254.77,139,2/22/2023,Supermarket
+Kroger,Coke Zero,South,2498.32,985.94,425,9/4/2023,Convenience Store
+Walmart,Coca-Cola,North,3393.46,766.39,132,9/12/2023,Convenience Store
+Walmart,Coca-Cola,East,4035.38,480.89,107,7/17/2023,Supermarket
+Kroger,,East,2054.24,,153,4/7/2023,Wholesale
+Target,Coke Zero,South,838.52,518.03,473,12/15/2023,Wholesale
+Target,Fanta,West,4305.96,339.44,429,12/12/2023,Convenience Store
+Walmart,Coca-Cola,West,2609.26,241.97,361,7/18/2023,Online
+7-Eleven,Fanta,West,954.4,697.12,137,2/8/2023,Supermarket
+Amazon,Minute Maid,North,4689.98,154.77,485,5/31/2023,Supermarket
+7-Eleven,Minute Maid,East,2753.1,701.87,272,9/9/2023,Supermarket
+Target,Diet Coke,South,957.28,982.52,69,1/2/2023,Wholesale
+Target,Fanta,South,4981.64,966.11,462,2/6/2023,Online
+7-Eleven,Diet Coke,North,4424.92,204.93,242,4/9/2023,Wholesale
+Kroger,Coca-Cola,North,3531.75,849.73,413,6/1/2023,Supermarket
+Walmart,Diet Coke,South,2082.09,890.01,125,3/16/2023,Wholesale
+7-Eleven,Fanta,South,4684.61,789.63,113,12/6/2023,Wholesale
+Walmart,Diet Coke,West,2945.36,384.84,482,4/9/2023,Supermarket
+7-Eleven,Sprite,West,4870.95,298.24,375,12/4/2023,Online
+7-Eleven,Minute Maid,West,2479.51,459.46,454,6/18/2023,Convenience Store
+Target,Sprite,South,962.03,37.71,407,10/4/2023,Supermarket
+Kroger,Minute Maid,North,976.23,379.14,401,5/15/2023,Online
+Walmart,Coca-Cola,West,3632.61,321.9,185,1/22/2023,Convenience Store
+Walmart,Coke Zero,North,1295.55,973.55,374,2/20/2023,Convenience Store
+Walmart,Coke Zero,North,4471.03,638.52,235,10/4/2023,Convenience Store
+7-Eleven,Coca-Cola,South,2562.92,585.37,457,11/13/2023,Supermarket
+Kroger,Coca-Cola,West,2546.05,580.56,201,2/18/2023,Online
+Costco,Diet Coke,East,313.66,994.66,167,2/15/2023,Convenience Store
+Costco,Fanta,South,4582.84,382.76,242,2/6/2023,Online
+7-Eleven,Sprite,North,4648.76,439.62,190,4/5/2023,Supermarket
+7-Eleven,Coke Zero,North,4821.74,855.95,200,9/10/2023,Supermarket
+Kroger,Diet Coke,East,1986.98,854.11,265,11/19/2023,Convenience Store
+Costco,Coca-Cola,South,930.51,565.67,232,2/23/2023,Online
+Costco,Diet Coke,West,3510.55,578.66,289,4/24/2023,Online
+Kroger,Minute Maid,North,3113.54,990.25,459,5/7/2023,Online
+Amazon,Coca-Cola,South,2639.82,879.83,282,4/14/2023,Online
+Walmart,Coca-Cola,South,3515.38,708.43,185,2/8/2023,Online
+Costco,Coke Zero,South,1538.6,813.17,364,11/2/2023,Online
+Target,Minute Maid,East,4348.65,914.98,400,11/9/2023,Wholesale
+Costco,Coca-Cola,North,3176.68,210.39,273,5/22/2023,Wholesale
+Costco,Coca-Cola,North,4461.03,351.24,101,12/20/2023,Online
+,Minute Maid,East,560.51,586.71,351,2/20/2023,Convenience Store
+Amazon,Fanta,West,2381.43,551.79,134,5/30/2023,Supermarket
+,Coca-Cola,South,2995.08,49.89,189,6/19/2023,Supermarket
+Costco,Coke Zero,South,4130.74,372.99,453,4/11/2023,Wholesale
+Target,Coca-Cola,East,2658.99,,117,1/5/2023,Online
+Walmart,Sprite,South,2340.6,845.18,489,12/16/2023,Convenience Store
+Amazon,Coca-Cola,East,2749.11,644.68,317,5/24/2023,Wholesale
+Kroger,Minute Maid,South,4881.68,525.97,167,5/27/2023,Convenience Store
+Target,Diet Coke,West,3996.41,285.42,101,2/27/2023,Supermarket
+Target,Minute Maid,East,484.44,44.84,126,11/14/2023,Wholesale
+Amazon,Minute Maid,South,4196.3,702.05,138,2/27/2023,Online
+Target,Minute Maid,North,4584.55,453.51,105,5/6/2023,Wholesale
+Walmart,Fanta,South,559.98,199.21,246,9/29/2023,Convenience Store
+7-Eleven,Sprite,East,2631.81,663.97,78,10/5/2023,Convenience Store
+Target,Coca-Cola,South,3677.19,66.76,163,5/24/2023,Wholesale
+Costco,Sprite,North,877.37,137.76,294,8/8/2023,Online
+Costco,Minute Maid,West,325.41,59.91,247,7/23/2023,Online
+Walmart,Coca-Cola,East,184.09,768.1,350,2/8/2023,Convenience Store
+Kroger,Sprite,North,1796.89,475.38,366,1/23/2023,Supermarket
+Kroger,Fanta,East,335.49,950.16,109,10/17/2023,Online
+7-Eleven,Coke Zero,North,1378.38,35,156,4/6/2023,Wholesale
+Kroger,Diet Coke,East,4296.8,665.52,13,1/16/2023,Supermarket
+Amazon,Fanta,North,445.79,649.57,485,6/9/2023,Convenience Store
+Costco,Fanta,North,4707.13,583.96,187,6/12/2023,Online
+Kroger,Sprite,North,3252.11,469.09,188,4/11/2023,Online
+Kroger,Sprite,West,3167.1,824.02,177,11/26/2023,Online
+7-Eleven,Minute Maid,East,1112.75,288.48,21,4/5/2023,Convenience Store
+Target,Fanta,West,1948.57,,251,2/4/2023,Convenience Store
+Kroger,Coke Zero,East,1749.12,662.61,102,3/31/2023,Wholesale
+Kroger,Coca-Cola,East,1769.06,275.48,400,7/15/2023,Online
+Target,Fanta,East,3495.16,361.37,84,8/5/2023,Wholesale
+7-Eleven,Fanta,South,4037.06,296.39,403,12/23/2023,Wholesale
+Amazon,Diet Coke,North,3778.01,810.7,186,4/9/2023,Online
+Kroger,Minute Maid,East,2121.83,384.58,496,4/6/2023,Supermarket
+Target,Minute Maid,East,1769.94,932.14,46,9/25/2023,Convenience Store
+,Diet Coke,North,2202.07,755.85,226,12/21/2023,Supermarket
+Target,Fanta,North,605.31,904.5,71,3/25/2023,Wholesale
+7-Eleven,Minute Maid,South,4149.64,333.65,196,1/19/2023,Wholesale
+7-Eleven,Fanta,South,2007.09,30.62,242,3/17/2023,Convenience Store
+Amazon,Minute Maid,North,1839.04,957.66,232,2/21/2023,Supermarket
+7-Eleven,Diet Coke,South,2909.85,639.2,382,3/10/2023,Wholesale
+Walmart,Coke Zero,South,1536.73,342.09,388,2/22/2023,Supermarket
+7-Eleven,Diet Coke,West,3978.74,793.83,118,6/30/2023,Online
+7-Eleven,Coke Zero,West,2522.66,76.41,232,5/2/2023,Wholesale
+Target,Minute Maid,West,2263.5,889.95,244,11/27/2023,Wholesale
+Costco,Diet Coke,East,673.63,160.13,83,9/10/2023,Wholesale
+Amazon,Diet Coke,East,4208.56,437.57,177,6/19/2023,Wholesale
+Walmart,Minute Maid,East,2043.59,894.06,203,1/5/2023,Convenience Store
+Costco,Sprite,East,2615.3,248.56,145,12/31/2023,Supermarket
+Target,Diet Coke,South,1916.15,816.54,336,8/5/2023,Wholesale
+Amazon,Diet Coke,South,3000.25,363.21,261,10/2/2023,Supermarket
+,Fanta,East,3908.02,567.24,100,7/21/2023,Wholesale
+7-Eleven,Coca-Cola,South,4541.14,128.97,460,6/22/2023,Wholesale
+7-Eleven,Coke Zero,North,155.63,479.29,67,5/28/2023,Wholesale
+7-Eleven,Coca-Cola,East,682.21,135.18,370,1/1/2023,Online
+7-Eleven,Fanta,South,3437.09,252.76,200,11/8/2023,Wholesale
+Target,Sprite,West,2689.01,447.61,67,2/13/2023,Wholesale
+Walmart,Fanta,East,4891.71,564.88,312,5/29/2023,Wholesale
+Amazon,Diet Coke,West,312.66,926.15,261,8/17/2023,Convenience Store
+Kroger,Coke Zero,North,1339.65,701.5,450,2/16/2023,Wholesale
+Kroger,Coke Zero,North,3184.05,701.83,424,1/1/2023,Supermarket
+Amazon,,South,3175.03,592.63,153,1/12/2023,Wholesale
+Target,Coca-Cola,East,4797.64,76.71,367,6/5/2023,Wholesale
+Costco,Diet Coke,West,1744.73,186.29,173,3/31/2023,Online
+Costco,Fanta,East,2002.52,244.81,37,8/8/2023,Wholesale
+Costco,Coca-Cola,West,1865.69,274.75,420,5/25/2023,Supermarket
+Amazon,Coke Zero,North,1470.84,422.98,470,8/8/2023,Online
+Target,Minute Maid,North,1427.69,150.52,44,9/10/2023,Supermarket
+Walmart,,South,4708.61,428.31,206,10/30/2023,Supermarket
+Kroger,Diet Coke,South,4603.97,101.09,295,8/30/2023,Convenience Store
+7-Eleven,Minute Maid,North,2802.78,181.54,298,3/6/2023,Convenience Store
+7-Eleven,Minute Maid,East,2453.81,985.58,276,12/7/2023,Online
+Target,Coke Zero,North,3772.93,405.13,324,10/10/2023,Convenience Store
+Costco,Coca-Cola,North,2888.5,82.24,114,4/9/2023,Online
+Kroger,Minute Maid,West,755.88,33.4,320,1/6/2023,Wholesale
+Amazon,Diet Coke,North,3489.4,543.66,142,12/24/2023,Convenience Store
+Walmart,Minute Maid,East,4574.51,593.45,62,6/14/2023,Supermarket
+Kroger,Coca-Cola,East,3809.7,390.29,94,3/19/2023,Wholesale
+Amazon,Sprite,North,1104.72,266.41,182,7/24/2023,Online
+Walmart,Fanta,West,1115.42,880.66,497,10/15/2023,Supermarket
+7-Eleven,Sprite,West,329.79,283.3,48,6/3/2023,Convenience Store
+7-Eleven,Diet Coke,East,2541.01,486.69,268,11/2/2023,Wholesale
+7-Eleven,Fanta,East,4275.69,560.87,398,8/10/2023,Online
+,Coca-Cola,East,3979.91,598.16,264,10/30/2023,Wholesale
+Target,Fanta,West,2160.63,788.97,407,3/7/2023,Online
+Walmart,Fanta,East,4044.72,905.09,201,9/9/2023,Convenience Store
+7-Eleven,Diet Coke,East,4904.27,615.93,347,10/13/2023,Online
+Costco,Sprite,East,2818.6,109.18,491,11/4/2023,Supermarket
+Kroger,Diet Coke,North,2782.49,461.89,344,1/30/2023,Convenience Store
+Amazon,Fanta,West,3148.22,865.12,142,10/12/2023,Convenience Store
+Amazon,,West,820.66,,339,9/30/2023,Wholesale
+Walmart,Coca-Cola,East,1365.4,469.95,43,9/19/2023,Convenience Store
+7-Eleven,Minute Maid,South,2513.83,342.18,244,2/12/2023,Online
+Amazon,Coke Zero,East,1276.71,94.35,258,5/31/2023,Wholesale
+Kroger,Coke Zero,East,727.42,168.86,383,1/8/2023,Wholesale
+Amazon,Coke Zero,East,982.33,702.57,290,7/14/2023,Online
+Amazon,Fanta,East,4384.16,524.93,169,3/2/2023,Online
+Costco,,North,1042.22,60.05,14,4/2/2023,Convenience Store
+Costco,Coca-Cola,South,1803.33,51.17,335,1/1/2023,Convenience Store
+Target,Minute Maid,West,2718.68,368.87,55,2/3/2023,Online
+Amazon,Coke Zero,East,730.87,343.5,420,3/14/2023,Supermarket
+Target,Sprite,South,552.22,491.52,223,8/27/2023,Online
+Target,Sprite,North,2607.12,173.84,57,3/2/2023,Convenience Store
+Costco,Coca-Cola,North,112.72,870.94,17,4/23/2023,Online
+Amazon,Diet Coke,West,3026.66,986.53,312,5/7/2023,Supermarket
+Walmart,Coke Zero,East,4627.8,251.39,37,3/19/2023,Wholesale
+7-Eleven,Fanta,East,2366.42,752.52,23,7/6/2023,Convenience Store
+Walmart,Sprite,West,1336.94,719.08,120,8/26/2023,Supermarket
+Walmart,Fanta,West,3773.12,49.86,283,10/21/2023,Supermarket
+Kroger,Minute Maid,North,2709.82,257.62,482,4/29/2023,Convenience Store
+Target,Coke Zero,East,1948.69,39.67,450,9/30/2023,Supermarket
+Target,Coca-Cola,West,1136.1,340.95,309,1/25/2023,Convenience Store
+Target,Diet Coke,South,957.28,982.52,69,1/2/2023,Wholesale
+Walmart,Diet Coke,North,2602.66,429.06,174,8/13/2023,Supermarket
+7-Eleven,Diet Coke,West,3504.45,882.86,179,2/14/2023,Supermarket
+Target,Coca-Cola,South,3677.19,66.76,163,5/24/2023,Wholesale
+Amazon,Fanta,East,4384.16,524.93,169,3/2/2023,Online
